@@ -15,7 +15,7 @@ export default function SettingsPage() {
       <div className="card" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
         <div>
           <div>Reminders</div>
-          <div className="muted" style={{ fontSize: 12 }}>Push a reminder when it's time</div>
+          <div className="muted" style={{ fontSize: 12 }}>Push a reminder when it&#39;s time</div>
         </div>
         <input
           type="checkbox"
